@@ -1,0 +1,7 @@
+{
+    "extends": [
+       "tslint-no-circular-imports"
+    ],
+    "defaultSeverity": "error",
+    "rulesDirectory": []
+}

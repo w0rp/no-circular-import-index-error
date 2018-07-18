@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "lib": ["es2017", "dom"],
+        "allowJs": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "sourceRoot": ".",
+        "baseUrl": "."
+    },
+    "include": [
+        "app/**/*.ts"
+    ]
+}
